@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Arda 
+ * @author Ardab 
  */
 public class KokBulma {
 
