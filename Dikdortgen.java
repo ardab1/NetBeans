@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Other/File.java to edit this template
  */
-package arda.ödev.pkg7784;
+package arda;
 
 import java.util.Scanner;
 
@@ -27,13 +27,7 @@ public class Dikdortgen {
                           System.out.println("Cevre : "+cevre);
                           System.out.println("Alan : "+alan);
                           
-       int VizeN,FinalN;
-       System.out.println("Vize Notunuzu Giriniz");
-       VizeN=girdi.nextInt();
-       System.out.println("Final Notunu Giriniz");
-       FinalN=girdi.nextInt();
-       double not=VizeN*0.4+FinalN*0.6;
-       System.out.println("Ortalama Sonucunuz : "+not);
+
                
        
                
