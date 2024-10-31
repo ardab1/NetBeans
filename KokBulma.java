@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Other/File.java to edit this template
  */
-package dracoias;
+package Arda;
 
 import java.awt.BorderLayout;
 import static java.lang.System.out;
@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Arda Burak
+ * @author Arda 
  */
 public class KokBulma {
 
