@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Arda
+ * @author Arda Burak
  */
 public class HesapMakinesi {
 
